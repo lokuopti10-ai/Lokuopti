@@ -1,0 +1,5 @@
+{
+  "name": "Image Fusion Hug",
+  "description": "An application that takes two images of people and uses AI to generate a new image of them hugging.",
+  "requestFramePermissions": []
+}
